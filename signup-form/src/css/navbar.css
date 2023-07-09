@@ -1,0 +1,19 @@
+.navbar-container {
+  border-bottom: solid #B7B6B6 1px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5.55rem;
+  padding: 0 12.6%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: inset 0 0px 1px 0 #B7B6B6;
+  z-index: 10;
+  background:white;
+}
+.navbar-logo {
+  margin-top: 0.3rem;
+  width: 10.37rem;
+}
